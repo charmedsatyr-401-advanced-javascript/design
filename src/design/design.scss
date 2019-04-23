@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+header, footer {
+  background: #eee;
+  font-color: #111;
+}
+
+header {
+  position: sticky;
+  top: 0;
+}
+
+footer {
+  bottom: 0;
+}
