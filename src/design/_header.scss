@@ -1,4 +1,4 @@
-@import '../../design/core';
+@import 'mixins';
 
 header {
   @include nav();
