@@ -1,0 +1,29 @@
+form {
+  background: $grey;
+  display: flex;
+  margin: 1em 0;
+  padding: 0.25em;
+  width: 50%;
+  * {
+    margin: 0.5em;
+  }
+  fieldset {
+    background: $grey;
+  }
+  legend {
+    font-weight: bold;
+  }
+  label {
+    //
+  }
+  input {
+    border-radius: 4px;
+  }
+  select {
+    border-radius: 4px;
+  }
+  textarea {
+    border-radius: 4px;
+  }
+
+}
