@@ -38,5 +38,8 @@
   "bugs": {
     "url": "https://github.com/charmedsatyr-401-advanced-javascript/design/issues"
   },
-  "homepage": "https://github.com/charmedsatyr-401-advanced-javascript/design#readme"
+  "homepage": "https://github.com/charmedsatyr-401-advanced-javascript/design#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
 }

@@ -1,6 +1,9 @@
 # Local data folder
 data
 
+# Local build folder
+build
+
 # Logs
 logs
 *.log
