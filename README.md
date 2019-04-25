@@ -8,6 +8,7 @@
 ### Links and Resources
 * [repo](http://xyz.com)
 * [travis](http://xyz.com)
+* [![Netlify Status](https://api.netlify.com/api/v1/badges/0c55e8a2-2c5c-4731-8a98-ab7ddb2f7341/deploy-status)](https://app.netlify.com/sites/design-challenges/deploys)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
